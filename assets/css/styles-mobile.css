@@ -20,6 +20,9 @@
     #servicios h1 {
         text-align: center;
     }
+    .end {
+    text-align: center;
+}
 }
 
 /* Modo mobile */
@@ -59,4 +62,20 @@
         text-align: center;
     }
 
+    
+.end {
+    text-align: center;
 }
+
+}
+
+@media only screen and (max-width: 960px) {
+    .end {
+        text-align: center;
+    }
+    .comentario {
+        margin-top: .3125rem;
+        margin-bottom: .3125rem;
+        width: 100%;
+    }
+    }
