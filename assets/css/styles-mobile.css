@@ -1,0 +1,62 @@
+@media only screen and (max-width: 1024px) {
+    #navbarNav ul {
+        margin: 5px;
+        gap: 0;
+        border-radius: 10px;
+    }
+
+    .informacion_inicio {
+        text-align: center;
+    }
+
+    .informacion_inicio h2 {
+        text-align: center;
+    }
+
+    .informacion_inicio div {
+        text-align: center;
+    }
+
+    #servicios h1 {
+        text-align: center;
+    }
+}
+
+/* Modo mobile */
+@media only screen and (max-width: 767px) {
+    #servicios h1 {
+        text-align: center;
+    }
+
+    #navbarNav ul {
+        margin: 5px;
+        gap: 0;
+        border-radius: 10px;
+    }
+
+    .logotipo {
+        width: 14.8125rem;
+        height: 3rem;
+        margin-right: auto;
+    }
+
+    .comentario {
+        margin-top: .3125rem;
+        margin-bottom: .3125rem;
+        width: 100%;
+    }
+
+    .center-mobile {
+        text-align: center;
+    }
+
+    .mt-sm-2 {
+        margin-top: 5px;
+    }
+
+
+    .boton_leer {
+        text-align: center;
+    }
+
+}
